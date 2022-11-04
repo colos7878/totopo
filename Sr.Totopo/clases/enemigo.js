@@ -1,0 +1,18 @@
+class enemigo{
+
+    constructor (){
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
